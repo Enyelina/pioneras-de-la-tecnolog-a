@@ -1,2 +1,1 @@
-# pioneras-de-la-tecnolog-a
-las aportaciones de las mujeres en la tecnología 
+La influencia de las mujeres en el desarrollo de la tecnologia
